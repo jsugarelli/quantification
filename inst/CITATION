@@ -1,0 +1,11 @@
+citHeader("Please cite this package in publications as:")
+
+citEntry(
+  entry="Manual",
+  title = "Quantification of qualitative survey data in R",
+  author = as.person("Joachim Zuckarelli"),
+  year = "2016",
+  note = "R package version 0.2.0",
+  textVersion = "Zuckarelli, Joachim (2016). Quantification of qualitative survey data in R. R package version 0.2.0. https://cran.r-project.org/package=quantification",
+  url = "https://cran.r-project.org/package=quantification"
+)

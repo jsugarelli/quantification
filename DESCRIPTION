@@ -1,0 +1,12 @@
+Package: quantification
+Type: Package
+Title: Quantification of Qualitative Survey Data
+Version: 0.2.0
+Date: 2016-10-30
+Author: Joachim Zuckarelli <joachim@zuckarelli.de>
+Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
+Description: Provides different functions for quantifying qualitative survey data. It supports the Carlson-Parkin method, the regression approach, the balance approach and the conditional expectations method.
+License: GPL-3
+Repository: CRAN
+Depends: car, stats
+LazyLoad: yes
